@@ -17,7 +17,7 @@ The Image Search App is a powerful application that allows users to search for a
 - Image Collections
 - Clean Search Bar
 
-    ### Cloning the repository
+### Cloning the repository
 
 ```shell
 git clone https://github.com/bala587/image-search-app.git
